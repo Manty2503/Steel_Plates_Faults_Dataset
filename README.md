@@ -46,3 +46,13 @@ and its contour.
 *  Luminosity_Index
 *  SigmoidOfAreas
 
+The code:
+
+* Imports of KNN, Test_train_split, confusion_matrix and accuracy from sklearn.
+* Loads the data and then splits its into training and testing dataset.
+* Trains the KNN model on the training data and then checks the accuracy on the testing data for various values of K.
+* Agains does the same thing but on the normalized data.
+* Trains a Bayes Classifier model on the training data and also calculates the accuacy on the testing data.
+* Also, prints the confusion matrix for various madels and its parameters.
+
+
