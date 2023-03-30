@@ -54,5 +54,6 @@ The code:
 * Agains does the same thing but on the normalized data.
 * Trains a Bayes Classifier model on the training data and also calculates the accuacy on the testing data.
 * Also, prints the confusion matrix for various madels and its parameters.
+* Trains a GMM model with different values of Q and calculates the confusion matrix and accuracy.
 
 
