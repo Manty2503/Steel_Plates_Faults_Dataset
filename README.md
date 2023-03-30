@@ -57,3 +57,27 @@ The code:
 * Trains a GMM model with different values of Q and calculates the confusion matrix and accuracy.
 
 
+# Input Dataset
+
+https://www.kaggle.com/datasets/uciml/faulty-steel-plates
+
+![image](https://user-images.githubusercontent.com/119813195/228888338-b5597948-fe46-4eb3-966a-84ab47247832.png)
+
+# Output 
+
+KNN without normalization of dataset:
+
+![image](https://user-images.githubusercontent.com/119813195/228889159-88e28924-fe7c-4e09-bb17-d9dc694b1c59.png)
+
+KNN with normalization of dataset:
+
+![image](https://user-images.githubusercontent.com/119813195/228889459-f83ceb5d-7bdd-4c7f-bbf2-2d5a6a47a2ab.png)
+
+Bayes Classifier (Unimodal)
+
+![image](https://user-images.githubusercontent.com/119813195/228889768-eae14ce7-35ea-46d0-8c31-f1664017db6d.png)
+
+Gaussian Mixture Model
+
+![image](https://user-images.githubusercontent.com/119813195/228890426-fcd2075f-a01f-4903-b490-e48d9c8800ea.png)
+
